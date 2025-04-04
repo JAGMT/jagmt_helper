@@ -1,0 +1,1 @@
+JAGMT = {} --/ Initializing the JAGMT table
